@@ -1,0 +1,10 @@
+{
+  "name": "shopee-cart",
+  "version": "1.0.0",
+  "description": "Sistema de carrinho de compras inspirado na Shopee",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
